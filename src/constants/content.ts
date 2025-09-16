@@ -5,4 +5,5 @@ export const content = {
   PRICING_OPTIONS: "Pricing Options",
   KEYWORD_SEARCH_PLACEHOLDER: "Find the items you're looking for",
   RESET_BUTTON: "RESET",
+  PRICING_OPTION_QUERY_PARAM: 'pricingOptions',
 };
